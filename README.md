@@ -1,3 +1,6 @@
+This is a demonstration of showing plotly charts in a github page. You can view the web page for this at:
+https://samuelhfish.github.io/citi_bike_deployment_demo/
+
 # Citi Bike Maps
 
 In this activity, you’ll use the  Citi Bike API to get the status and location of every Citi Bike station in New York City. This activity also includes a bonus portion.
